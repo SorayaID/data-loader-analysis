@@ -1,8 +1,7 @@
 -- 5. Using your dimensional model, write a SQL query that returns a list of jobs for each company, 
 -- ordered and enumerated within each group by the `posted_at` date.
 
--- Since SQLite does not support row_number, let's suppose that we are using a db that does support this window function.
--- Another alternative to this funtion can be done and is in the script select_from_gohiring_db.py
+-- Let's suppose that we are using a db that does support the window function row_number().
 
 SELECT  j.company_id,
         c.company_name,
