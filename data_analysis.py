@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import calendar
 
 # Load companies.json, jobs.json and locations.csv into DataFrames
@@ -64,6 +63,7 @@ print("\nDuplicated rows have been dropped in the dataframe jobs_data.")
 #*********************************************************************************************************************************
 
 #1. What location has the most jobs that are either posted or expired?
+
 # Join the "jobs" and "locations" DataFrames based on the condition zip=zip_code
 joined_data = jobs_data.merge(locations_data, left_on='zip', right_on='zip_code', how='inner')
 #print(joined_data)
@@ -114,7 +114,6 @@ print("Month and year with the most canceled jobs:", most_canceled_month_year)
 # We already know the employee count from the data provided, let's count the jobs count per company
 posted_jobs = jobs_data[jobs_data['state'] == 'posted']
 posted_jobs = posted_jobs.groupby('company_id').size().reset_index(name='jobs_count')
-# Set 'Company ID' as the index
 posted_jobs.set_index('company_id', inplace=True)
 
 posted_jobs_employee = posted_jobs.merge(companies_data, left_on='company_id', right_on='Company ID', how='inner')
