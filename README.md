@@ -28,7 +28,7 @@ Structured queries:
 
 🔍 **Data Analysis:** Addresses questions 1 to 3, providing detailed insights. It encompasses data frame manipulations and analysis.
 
-🌐 **Dimensional Modeling:** Tackles question 4 using SQLite for robust data integrity. Also includes preliminary data visualization attempts (question 7).
+🌐 **Dimensional Modeling:** Tackles question 4 using SQLite. Also includes preliminary data visualization attempts (question 7).
 
 📜 **Structured Solutions:** sql_queries.sql contains explicit responses to questions 5 and 6.
 
