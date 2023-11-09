@@ -1,0 +1,818 @@
+[
+    {
+        "posted_at": "04\/13\/2022 11:43",
+        "id": 1,
+        "state": "expired",
+        "zip": 10506,
+        "price": 119.34,
+        "company_id": 4
+    },
+    {
+        "posted_at": "01\/20\/2021 04:54",
+        "id": 2,
+        "state": "cancelled",
+        "zip": 10506,
+        "price": 197.89,
+        "company_id": 5
+    },
+    {
+        "posted_at": "07\/21\/2021 15:29",
+        "id": 3,
+        "state": "expired",
+        "zip": 35786,
+        "price": 335.85,
+        "company_id": 8
+    },
+    {
+        "posted_at": "06\/13\/2021 20:11",
+        "id": 4,
+        "state": "expired",
+        "zip": 78956,
+        "price": 150.0,
+        "company_id": 6
+    },
+    {
+        "posted_at": "06\/23\/2022 06:52",
+        "id": 5,
+        "state": "expired",
+        "zip": 78956,
+        "price": 158.09,
+        "company_id": 8
+    },
+    {
+        "posted_at": "05\/10\/2022 16:19",
+        "id": 6,
+        "state": "cancelled",
+        "zip": 10506,
+        "price": 375.93,
+        "company_id": 5
+    },
+    {
+        "posted_at": "10\/14\/2022 21:10",
+        "id": 7,
+        "state": "cancelled",
+        "zip": 78956,
+        "price": 36.27,
+        "company_id": 0
+    },
+    {
+        "posted_at": "03\/06\/2021 09:12",
+        "id": 8,
+        "state": "posted",
+        "zip": 25089,
+        "price": 229.14,
+        "company_id": 1
+    },
+    {
+        "posted_at": "11\/05\/2021 18:25",
+        "id": 9,
+        "state": "expired",
+        "zip": 80976,
+        "price": 499.23,
+        "company_id": 4
+    },
+    {
+        "posted_at": "01\/23\/2021 16:43",
+        "id": 10,
+        "state": "posted",
+        "zip": 25089,
+        "price": 498.05,
+        "company_id": 2
+    },
+    {
+        "posted_at": "06\/10\/2021 12:07",
+        "id": 11,
+        "state": "cancelled",
+        "zip": 10506,
+        "price": 36.63,
+        "company_id": 4
+    },
+    {
+        "posted_at": "01\/05\/2022 15:15",
+        "id": 12,
+        "state": "cancelled",
+        "zip": 78956,
+        "price": 106.58,
+        "company_id": 0
+    },
+    {
+        "posted_at": "01\/21\/2021 07:37",
+        "id": 13,
+        "state": "cancelled",
+        "zip": 35786,
+        "price": 132.6,
+        "company_id": 1
+    },
+    {
+        "posted_at": "05\/27\/2021 01:26",
+        "id": 14,
+        "state": "cancelled",
+        "zip": 80976,
+        "price": 466.63,
+        "company_id": 6
+    },
+    {
+        "posted_at": "04\/21\/2022 02:49",
+        "id": 15,
+        "state": "expired",
+        "zip": 35786,
+        "price": 440.43,
+        "company_id": 5
+    },
+    {
+        "posted_at": "02\/03\/2022 12:22",
+        "id": 16,
+        "state": "posted",
+        "zip": 10506,
+        "price": 439.64,
+        "company_id": 5
+    },
+    {
+        "posted_at": "06\/11\/2021 19:41",
+        "id": 17,
+        "state": "cancelled",
+        "zip": 78956,
+        "price": 184.76,
+        "company_id": 6
+    },
+    {
+        "posted_at": "03\/07\/2022 20:27",
+        "id": 18,
+        "state": "posted",
+        "zip": 35786,
+        "price": 5898.0,
+        "company_id": 8
+    },
+    {
+        "posted_at": "08\/15\/2022 12:19",
+        "id": 19,
+        "state": "cancelled",
+        "zip": 35786,
+        "price": 416.87,
+        "company_id": 1
+    },
+    {
+        "posted_at": "01\/06\/2021 16:47",
+        "id": 20,
+        "state": "posted",
+        "zip": 80976,
+        "price": 351.77,
+        "company_id": 6
+    },
+    {
+        "posted_at": "08\/12\/2022 21:05",
+        "id": 21,
+        "state": "posted",
+        "zip": 80976,
+        "price": 305.84,
+        "company_id": 3
+    },
+    {
+        "posted_at": "05\/26\/2022 07:43",
+        "id": 22,
+        "state": "cancelled",
+        "zip": 78956,
+        "price": 493.62,
+        "company_id": 4
+    },
+    {
+        "posted_at": "09\/07\/2021 05:26",
+        "id": 23,
+        "state": "cancelled",
+        "zip": 80976,
+        "price": 326.99,
+        "company_id": 0
+    },
+    {
+        "posted_at": "04\/25\/2021 10:17",
+        "id": 24,
+        "state": "posted",
+        "zip": 35786,
+        "price": 3.91,
+        "company_id": 6
+    },
+    {
+        "posted_at": "12\/01\/2022 06:50",
+        "id": 25,
+        "state": "expired",
+        "zip": 35786,
+        "price": 408.55,
+        "company_id": 0
+    },
+    {
+        "posted_at": "09\/04\/2021 13:26",
+        "id": 26,
+        "state": "cancelled",
+        "zip": 10506,
+        "price": 149.69,
+        "company_id": 8
+    },
+    {
+        "posted_at": "03\/10\/2021 14:53",
+        "id": 27,
+        "state": "cancelled",
+        "zip": 35786,
+        "price": 331.69,
+        "company_id": 8
+    },
+    {
+        "posted_at": "03\/13\/2021 12:24",
+        "id": 28,
+        "state": "expired",
+        "zip": 78956,
+        "price": 469.47,
+        "company_id": 3
+    },
+    {
+        "posted_at": "09\/12\/2022 06:46",
+        "id": 29,
+        "state": "expired",
+        "zip": 25089,
+        "price": 67.15,
+        "company_id": 5
+    },
+    {
+        "posted_at": "03\/18\/2022 09:38",
+        "id": 30,
+        "state": "cancelled",
+        "zip": 10506,
+        "price": 57.71,
+        "company_id": 6
+    },
+    {
+        "posted_at": "08\/13\/2022 20:00",
+        "id": 31,
+        "state": "cancelled",
+        "zip": 10506,
+        "price": 53.52,
+        "company_id": 1
+    },
+    {
+        "posted_at": "06\/18\/2022 08:52",
+        "id": 32,
+        "state": "cancelled",
+        "zip": 78956,
+        "price": 276.61,
+        "company_id": 5
+    },
+    {
+        "posted_at": "01\/28\/2022 03:49",
+        "id": 33,
+        "state": "cancelled",
+        "zip": 78956,
+        "price": 136.17,
+        "company_id": 5
+    },
+    {
+        "posted_at": "12\/12\/2022 21:17",
+        "id": 34,
+        "state": "posted",
+        "zip": 80976,
+        "price": 302.41,
+        "company_id": 1
+    },
+    {
+        "posted_at": "10\/05\/2021 03:45",
+        "id": 35,
+        "state": "posted",
+        "zip": 10506,
+        "price": 358.81,
+        "company_id": 4
+    },
+    {
+        "posted_at": "02\/08\/2022 16:40",
+        "id": 36,
+        "state": "posted",
+        "zip": 80976,
+        "price": null,
+        "company_id": 8
+    },
+    {
+        "posted_at": "08\/30\/2022 02:02",
+        "id": 37,
+        "state": "cancelled",
+        "zip": 35786,
+        "price": 317.12,
+        "company_id": 4
+    },
+    {
+        "posted_at": "03\/29\/2022 05:39",
+        "id": 38,
+        "state": "posted",
+        "zip": 10506,
+        "price": 131.99,
+        "company_id": 6
+    },
+    {
+        "posted_at": "09\/22\/2022 15:37",
+        "id": 39,
+        "state": "cancelled",
+        "zip": 10506,
+        "price": 244.27,
+        "company_id": 5
+    },
+    {
+        "posted_at": "02\/27\/2022 03:51",
+        "id": 40,
+        "state": "cancelled",
+        "zip": 25089,
+        "price": 452.67,
+        "company_id": 6
+    },
+    {
+        "posted_at": "05\/31\/2022 00:20",
+        "id": 41,
+        "state": "posted",
+        "zip": 10506,
+        "price": 423.05,
+        "company_id": 4
+    },
+    {
+        "posted_at": "02\/04\/2021 09:20",
+        "id": 42,
+        "state": "cancelled",
+        "zip": 35786,
+        "price": 46.15,
+        "company_id": 8
+    },
+    {
+        "posted_at": "06\/17\/2021 06:16",
+        "id": 43,
+        "state": "osted",
+        "zip": 80976,
+        "price": 211.79,
+        "company_id": 2
+    },
+    {
+        "posted_at": "08\/01\/2021 02:53",
+        "id": 44,
+        "state": "posted",
+        "zip": 80976,
+        "price": 138.34,
+        "company_id": 3
+    },
+    {
+        "posted_at": "03\/01\/2021 04:04",
+        "id": 45,
+        "state": "posted",
+        "zip": 25089,
+        "price": 1.77,
+        "company_id": 6
+    },
+    {
+        "posted_at": "06\/20\/2021 19:56",
+        "id": 46,
+        "state": "posted",
+        "zip": 35786,
+        "price": 385.56,
+        "company_id": 6
+    },
+    {
+        "posted_at": "03\/16\/2021 15:26",
+        "id": 47,
+        "state": "posted",
+        "zip": 80976,
+        "price": 318.56,
+        "company_id": 2
+    },
+    {
+        "posted_at": "07\/23\/2021 19:02",
+        "id": 48,
+        "state": "expired",
+        "zip": 78956,
+        "price": 130.98,
+        "company_id": 4
+    },
+    {
+        "posted_at": "04\/10\/2022 18:11",
+        "id": 49,
+        "state": "expired",
+        "zip": 35786,
+        "price": 370.62,
+        "company_id": 6
+    },
+    {
+        "posted_at": "09\/25\/2021 03:50",
+        "id": 50,
+        "state": "expired",
+        "zip": 35786,
+        "price": 275.84,
+        "company_id": 8
+    },
+    {
+        "posted_at": "09\/29\/2021 01:29",
+        "id": 51,
+        "state": "expired",
+        "zip": 25089,
+        "price": 213.84,
+        "company_id": 0
+    },
+    {
+        "posted_at": "06\/03\/2021 20:15",
+        "id": 52,
+        "state": "canceled",
+        "zip": 80976,
+        "price": 4.83,
+        "company_id": 4
+    },
+    {
+        "posted_at": "07\/15\/2021 18:30",
+        "id": 53,
+        "state": "posted",
+        "zip": 35786,
+        "price": 37.62,
+        "company_id": 4
+    },
+    {
+        "posted_at": "11\/16\/2022 06:53",
+        "id": 54,
+        "state": "cancelled",
+        "zip": 80976,
+        "price": 441.55,
+        "company_id": 3
+    },
+    {
+        "posted_at": "04\/19\/2022 18:27",
+        "id": 55,
+        "state": "cancelled",
+        "zip": 78956,
+        "price": 451.96,
+        "company_id": 6
+    },
+    {
+        "posted_at": "03\/22\/2022 08:16",
+        "id": 56,
+        "state": "posted",
+        "zip": 25089,
+        "price": 272.8,
+        "company_id": 5
+    },
+    {
+        "posted_at": "05\/06\/2021 20:27",
+        "id": 57,
+        "state": "cancelled",
+        "zip": 78956,
+        "price": 417.3,
+        "company_id": 7
+    },
+    {
+        "posted_at": "06\/17\/2022 22:16",
+        "id": 58,
+        "state": "cancelled",
+        "zip": 25089,
+        "price": 291.25,
+        "company_id": 7
+    },
+    {
+        "posted_at": "05\/01\/2021 05:00",
+        "id": 59,
+        "state": "expired",
+        "zip": 35786,
+        "price": 74.05,
+        "company_id": 7
+    },
+    {
+        "posted_at": "10\/05\/2021 19:53",
+        "id": 60,
+        "state": "expired",
+        "zip": 25089,
+        "price": 63.72,
+        "company_id": 3
+    },
+    {
+        "posted_at": "12\/24\/2022 20:33",
+        "id": 61,
+        "state": "expired",
+        "zip": 10506,
+        "price": 154.13,
+        "company_id": 8
+    },
+    {
+        "posted_at": "04\/13\/2022 21:45",
+        "id": 62,
+        "state": "cancelled",
+        "zip": 80976,
+        "price": 449.49,
+        "company_id": 7
+    },
+    {
+        "posted_at": "02\/12\/2022 06:37",
+        "id": 63,
+        "state": "expired",
+        "zip": 80976,
+        "price": 398.06,
+        "company_id": 2
+    },
+    {
+        "posted_at": "05\/16\/2022 10:54",
+        "id": 64,
+        "state": "posted",
+        "zip": 10506,
+        "price": 430.35,
+        "company_id": 1
+    },
+    {
+        "posted_at": "09\/08\/2022 21:29",
+        "id": 65,
+        "state": "cancelled",
+        "zip": 78956,
+        "price": 449.46,
+        "company_id": 4
+    },
+    {
+        "posted_at": "07\/22\/2022 02:58",
+        "id": 66,
+        "state": "cancelled",
+        "zip": 10506,
+        "price": 105.04,
+        "company_id": 8
+    },
+    {
+        "posted_at": "06\/18\/2021 02:24",
+        "id": 67,
+        "state": "expired",
+        "zip": 35786,
+        "price": 124.76,
+        "company_id": 5
+    },
+    {
+        "posted_at": "01\/25\/2021 09:02",
+        "id": 68,
+        "state": "posted",
+        "zip": 35786,
+        "price": 51.4,
+        "company_id": 1
+    },
+    {
+        "posted_at": "08\/20\/2021 03:16",
+        "id": 69,
+        "state": "expired",
+        "zip": 80976,
+        "price": 390.06,
+        "company_id": 3
+    },
+    {
+        "posted_at": "07\/16\/2021 07:52",
+        "id": 70,
+        "state": "expired",
+        "zip": 35786,
+        "price": 442.07,
+        "company_id": 4
+    },
+    {
+        "posted_at": "06\/04\/2021 22:05",
+        "id": 71,
+        "state": "cancelled",
+        "zip": 80976,
+        "price": 203.19,
+        "company_id": 3
+    },
+    {
+        "posted_at": "11\/20\/2022 20:24",
+        "id": 72,
+        "state": "cancelled",
+        "zip": 10506,
+        "price": 310.33,
+        "company_id": 3
+    },
+    {
+        "posted_at": "10\/03\/2022 08:19",
+        "id": 73,
+        "state": "expired",
+        "zip": 10506,
+        "price": 77.28,
+        "company_id": 2
+    },
+    {
+        "posted_at": "08\/19\/2021 13:41",
+        "id": 74,
+        "state": "cancelled",
+        "zip": 10506,
+        "price": 464.94,
+        "company_id": 0
+    },
+    {
+        "posted_at": "04\/25\/2022 04:04",
+        "id": 75,
+        "state": "cancelled",
+        "zip": 80976,
+        "price": 432.3,
+        "company_id": 0
+    },
+    {
+        "posted_at": "10\/17\/2021 15:07",
+        "id": 76,
+        "state": "cancelled",
+        "zip": 10506,
+        "price": 488.1,
+        "company_id": 3
+    },
+    {
+        "posted_at": "10\/31\/2022 03:48",
+        "id": 77,
+        "state": "expired",
+        "zip": 10506,
+        "price": 405.39,
+        "company_id": 7
+    },
+    {
+        "posted_at": "12\/02\/2021 17:02",
+        "id": 78,
+        "state": "cancelled",
+        "zip": 78956,
+        "price": 440.71,
+        "company_id": 1
+    },
+    {
+        "posted_at": "07\/14\/2021 05:47",
+        "id": 79,
+        "state": "expired",
+        "zip": 10506,
+        "price": 12.39,
+        "company_id": 7
+    },
+    {
+        "posted_at": "06\/30\/2021 22:12",
+        "id": 80,
+        "state": "cancelled",
+        "zip": 35786,
+        "price": 368.28,
+        "company_id": 6
+    },
+    {
+        "posted_at": "02\/15\/2022 11:59",
+        "id": 81,
+        "state": "posted",
+        "zip": 80976,
+        "price": 166.09,
+        "company_id": 3
+    },
+    {
+        "posted_at": "07\/12\/2021 16:20",
+        "id": 82,
+        "state": "cancelled",
+        "zip": 78956,
+        "price": 465.41,
+        "company_id": 6
+    },
+    {
+        "posted_at": "03\/04\/2022 10:30",
+        "id": 83,
+        "state": "expired",
+        "zip": 25089,
+        "price": 401.12,
+        "company_id": 7
+    },
+    {
+        "posted_at": "10\/18\/2022 23:58",
+        "id": 84,
+        "state": "cancelled",
+        "zip": 80976,
+        "price": 432.03,
+        "company_id": 6
+    },
+    {
+        "posted_at": "10\/20\/2021 09:06",
+        "id": 85,
+        "state": "expired",
+        "zip": 35786,
+        "price": 405.37,
+        "company_id": 3
+    },
+    {
+        "posted_at": "06\/11\/2021 00:05",
+        "id": 86,
+        "state": "expired",
+        "zip": 80976,
+        "price": 133.4,
+        "company_id": 2
+    },
+    {
+        "posted_at": "12\/30\/2022 16:53",
+        "id": 87,
+        "state": "cancelled",
+        "zip": 35786,
+        "price": 393.69,
+        "company_id": 0
+    },
+    {
+        "posted_at": "01\/08\/2022 16:17",
+        "id": 88,
+        "state": "expired",
+        "zip": 35786,
+        "price": 54.05,
+        "company_id": 1
+    },
+    {
+        "posted_at": "03\/09\/2021 06:43",
+        "id": 89,
+        "state": "cancelled",
+        "zip": 25089,
+        "price": 436.08,
+        "company_id": 6
+    },
+    {
+        "posted_at": "02\/05\/2021 07:57",
+        "id": 90,
+        "state": "posted",
+        "zip": 80976,
+        "price": 429.3,
+        "company_id": 3
+    },
+    {
+        "posted_at": "03\/22\/2021 22:50",
+        "id": 91,
+        "state": "expired",
+        "zip": 25089,
+        "price": 111.22,
+        "company_id": 2
+    },
+    {
+        "posted_at": "04\/04\/2022 17:57",
+        "id": 92,
+        "state": "expired",
+        "zip": 25089,
+        "price": 408.29,
+        "company_id": 8
+    },
+    {
+        "posted_at": "08\/02\/2022 20:31",
+        "id": 93,
+        "state": "expired",
+        "zip": 80976,
+        "price": 230.15,
+        "company_id": 7
+    },
+    {
+        "posted_at": "11\/05\/2021 22:35",
+        "id": 94,
+        "state": "expired",
+        "zip": 10506,
+        "price": 152.6,
+        "company_id": 0
+    },
+    {
+        "posted_at": "02\/17\/2021 07:18",
+        "id": 95,
+        "state": "posted",
+        "zip": 10506,
+        "price": 397.67,
+        "company_id": 8
+    },
+    {
+        "posted_at": "10\/07\/2021 09:46",
+        "id": 96,
+        "state": "posted",
+        "zip": 25089,
+        "price": null,
+        "company_id": 3
+    },
+    {
+        "posted_at": "12\/29\/2022 16:05",
+        "id": 97,
+        "state": "cancelled",
+        "zip": 78956,
+        "price": 11.83,
+        "company_id": 1
+    },
+    {
+        "posted_at": "01\/22\/2022 23:15",
+        "id": 98,
+        "state": "expired",
+        "zip": 25089,
+        "price": 96.56,
+        "company_id": 7
+    },
+    {
+        "posted_at": "12\/11\/2022 09:36",
+        "id": 99,
+        "state": "expired",
+        "zip": 25089,
+        "price": 164.13,
+        "company_id": 2
+    },
+    {
+        "posted_at": "09\/21\/2022 23:23",
+        "id": 100,
+        "state": "posted",
+        "zip": 25089,
+        "price": 432.18,
+        "company_id": 7
+    },
+    {
+        "posted_at": "12\/29\/2022 16:05",
+        "id": 97,
+        "state": "cancelled",
+        "zip": 78956,
+        "price": 11.83,
+        "company_id": 1
+    },
+    {
+        "posted_at": "07\/21\/2021 15:29",
+        "id": 3,
+        "state": "expired",
+        "zip": 35786,
+        "price": 335.85,
+        "company_id": 8
+    }
+]
